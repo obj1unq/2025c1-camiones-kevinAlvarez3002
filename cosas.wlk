@@ -1,6 +1,5 @@
 object knightRider {
-	method peso() { return 500 }
-	method nivelPeligrosidad() { return 10 }
+	method peso() = 500
+	
+	method nivelPeligrosidad() = 10
 }
-
-
